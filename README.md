@@ -26,7 +26,12 @@ Obviamente, se utilizarmos alguma linguagem de programação iremos maximizar no
 
 Contudo, o aspecto mais impactante do Power BI são seus relatório e dashboards interativos. Aqui você poderá ver uma demonstração da interatividade do relatório criaado durante a live.
 
-### Demonstração do relatório 
+## Sobre o Evento
+
+- Apresentação ppt com relatório embedado no Power Point - [aqui](https://academiapme-my.sharepoint.com/:p:/g/personal/juliana_mascarenhas_dio_me/EUY-HGKCI2tHmyFy15I9SzMBCoqFjdY8cfN9pAJg9AfK_A?e=c9yCeq)
+- Live no youtube - [aqui](https://youtu.be/BvCshpN1A6M)
+- Formação Power BI Analyst DIO - [link](https://web.dio.me/track/formacao-power-bi-analyst)
+
 
 https://user-images.githubusercontent.com/81716096/213568344-a5327bef-f276-4e28-bd13-e5c1861c7f14.mp4
 
